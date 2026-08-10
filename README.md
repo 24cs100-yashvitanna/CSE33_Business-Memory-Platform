@@ -49,8 +49,8 @@ The platform aims to:
 
 ## 👥 By Whom?
 
-Yashvi Tanna - 24CS100
-Tvisha Zaveri - 24CS108
+**Yashvi Tanna - 24CS100**
+**Tvisha Zaveri - 24CS108**
 
 ## 🔄 How It Works
 
